@@ -1,130 +1,126 @@
 [
   {
-    "title": "Butterfly_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51695573513_89f68aa8a8_o.gif",
-    "id_album": "657564371",
-    "total": 6,
+    "title": "Seven deadly sins Anime_L1",
+    "link_thumb": "https://live.staticflickr.com/65535/51780331376_943f9edd5c_n.jpg",
+    "id_album": "1802210937",
+    "total": 43,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_657564371_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1802210937_index_0.json"
       }
     ]
   },
   {
-    "title": "Kitty & My Melody_L4",
-    "link_thumb": "https://live.staticflickr.com/65535/51699356096_9ae549bf17_o.gif",
-    "id_album": "-378480542",
+    "title": "Doraemon Anime_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51779367072_1ae1cdcaf6_o.gif",
+    "id_album": "405661393",
+    "total": 16,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_405661393_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Cute Art_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51779333622_3000f7f715_o.gif",
+    "id_album": "-629963486",
     "total": 76,
     "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-378480542_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-629963486_index_0.json"
       },
       {
         "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-378480542_index_1.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-629963486_index_1.json"
       }
     ]
   },
   {
-    "title": "Disney Cartoon_L4",
-    "link_thumb": "https://live.staticflickr.com/65535/51695860647_3b4f253edd_o.gif",
-    "id_album": "-779586267",
+    "title": "Disney Cartoon_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51780832964_9ab626449a_o.gif",
+    "id_album": "-779586269",
     "total": 54,
     "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-779586267_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-779586269_index_0.json"
       },
       {
         "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-779586267_index_1.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-779586269_index_1.json"
       }
     ]
   },
   {
-    "title": "Horror Art_L2",
-    "link_thumb": "https://live.staticflickr.com/65535/51699771995_d1b0fff636_o.gif",
-    "id_album": "529377272",
-    "total": 41,
+    "title": "Naruto Anime_L1",
+    "link_thumb": "https://live.staticflickr.com/65535/51779444062_d4af4e5bae_o.gif",
+    "id_album": "1894397983",
+    "total": 37,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_529377272_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1894397983_index_0.json"
       }
     ]
   },
   {
-    "title": "Madagascar Cartoon_L2",
-    "link_thumb": "https://live.staticflickr.com/65535/51700392478_de966e175d_o.gif",
-    "id_album": "-2014542389",
-    "total": 9,
+    "title": "Poke_L6",
+    "link_thumb": "https://live.staticflickr.com/65535/51702657386_3620cb0ee4_o.gif",
+    "id_album": "1265605552",
+    "total": 32,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-2014542389_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1265605552_index_0.json"
       }
     ]
   },
   {
-    "title": "Lilo & Stitch Cartoon_L2",
-    "link_thumb": "https://live.staticflickr.com/65535/51700628130_62c29e6c08_o.gif",
-    "id_album": "685543660",
-    "total": 30,
+    "title": "Animals",
+    "link_thumb": "https://live.staticflickr.com/65535/51694407278_aee5c2cb3d_o.gif",
+    "id_album": "807717335",
+    "total": 1,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_685543660_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_807717335_index_0.json"
       }
     ]
   },
   {
-    "title": "Onmyoji_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51702633019_5c398db411_o.gif",
-    "id_album": "389318915",
-    "total": 26,
+    "title": "Raccoons_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51703542203_cb0e729446_o.gif",
+    "id_album": "1998705265",
+    "total": 20,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_389318915_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1998705265_index_0.json"
       }
     ]
   },
   {
-    "title": "Disney Cartoon_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51697597475_ffdd06d710_o.gif",
-    "id_album": "-779586266",
-    "total": 54,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-779586266_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-779586266_index_1.json"
-      }
-    ]
-  },
-  {
-    "title": "Buddhist Terms_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51696068600_a9175f1be9_o.gif",
-    "id_album": "518853928",
-    "total": 13,
+    "title": "Panda Art_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51780935169_eb17df50f7_o.gif",
+    "id_album": "586574345",
+    "total": 5,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_518853928_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_586574345_index_0.json"
       }
     ]
   }

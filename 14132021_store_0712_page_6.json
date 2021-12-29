@@ -1,115 +1,59 @@
 [
   {
-    "title": "Ghibli Anime_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51698863580_0fd49834d2_o.gif",
-    "id_album": "-749595045",
-    "total": 17,
+    "title": "Horror Art_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51781070530_e16d6411ee_o.gif",
+    "id_album": "529377273",
+    "total": 41,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-749595045_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_529377273_index_0.json"
       }
     ]
   },
   {
-    "title": "Kitty & My Melody_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51698479232_9aab663397_o.gif",
-    "id_album": "-378480543",
-    "total": 76,
-    "size_max_detail_page": 2,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-378480543_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-378480543_index_1.json"
-      }
-    ]
-  },
-  {
-    "title": "Miku",
-    "link_thumb": "https://live.staticflickr.com/65535/51694744964_261bffe88d_o.gif",
-    "id_album": "2398246",
-    "total": 5,
+    "title": "Doraemon Anime_L4",
+    "link_thumb": "https://live.staticflickr.com/65535/51779361452_b3ff6455cb_o.gif",
+    "id_album": "405661394",
+    "total": 16,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2398246_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_405661394_index_0.json"
       }
     ]
   },
   {
-    "title": "Simpsons Cartoon_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51704414939_ab3ccd67b2_o.gif",
-    "id_album": "1276946590",
-    "total": 8,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1276946590_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Little Monk_L6",
-    "link_thumb": "https://live.staticflickr.com/65535/51700016826_c43d0f9bd7_o.gif",
-    "id_album": "213942176",
-    "total": 17,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_213942176_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Joker Harley Quinn_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51699430563_d6a4d07afd_o.gif",
-    "id_album": "-2022175633",
-    "total": 24,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-2022175633_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Fox Art_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51698020463_01d6df12d7_o.gif",
-    "id_album": "-646110862",
-    "total": 7,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-646110862_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Halloween Ghost Witch_L2",
-    "link_thumb": "https://live.staticflickr.com/65535/51699281679_261c2580cb_o.gif",
-    "id_album": "1746571234",
+    "title": "Halloween Ghost Witch_L4",
+    "link_thumb": "https://live.staticflickr.com/65535/51779362287_3b934159c3_o.gif",
+    "id_album": "1746571236",
     "total": 49,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1746571234_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1746571236_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Onmyoji_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51702583689_6e8617a659_o.gif",
+    "id_album": "389318914",
+    "total": 26,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_389318914_index_0.json"
       }
     ]
   },
   {
     "title": "Lilo & Stitch Cartoon_L2",
-    "link_thumb": "https://live.staticflickr.com/65535/51700628130_62c29e6c08_o.gif",
+    "link_thumb": "https://live.staticflickr.com/65535/51781088495_750f85509f_o.gif",
     "id_album": "685543660",
     "total": 30,
     "size_max_detail_page": 1,
@@ -117,6 +61,58 @@
       {
         "index_page": 0,
         "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_685543660_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Raccoons_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51703560078_e9d247bb72_o.gif",
+    "id_album": "1998705266",
+    "total": 20,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1998705266_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Mickey Cartoon_L4",
+    "link_thumb": "https://live.staticflickr.com/65535/51779455237_6a2aaa55bd_o.gif",
+    "id_album": "1680949825",
+    "total": 22,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1680949825_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Seven deadly sins Anime_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51780978854_52098a7b28_n.jpg",
+    "id_album": "1802210941",
+    "total": 43,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1802210941_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Rio 2_L4",
+    "link_thumb": "https://live.staticflickr.com/65535/51780589853_27bfcf9e8d_n.jpg",
+    "id_album": "-1210862915",
+    "total": 17,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1210862915_index_0.json"
       }
     ]
   }

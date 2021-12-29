@@ -1,118 +1,122 @@
 [
   {
-    "title": "Halloween Ghost Witch_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51699085003_78321f869e_o.gif",
-    "id_album": "1746571237",
-    "total": 49,
+    "title": "Lilo & Stitch Cartoon_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51780517168_e7ee48ba8f_o.gif",
+    "id_album": "685543661",
+    "total": 30,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1746571237_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_685543661_index_0.json"
       }
     ]
   },
   {
-    "title": "Dragon Art_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51697798290_b04a24c8e3_o.gif",
-    "id_album": "2059014002",
-    "total": 13,
+    "title": "Couple Art_L6",
+    "link_thumb": "https://live.staticflickr.com/65535/51780778049_e7893f63fb_o.gif",
+    "id_album": "1239230758",
+    "total": 37,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2059014002_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1239230758_index_0.json"
       }
     ]
   },
   {
-    "title": "Star War_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51704130288_3237771a88_o.gif",
-    "id_album": "-1637191766",
-    "total": 2,
+    "title": "Disney Cartoon_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51780832964_9ab626449a_o.gif",
+    "id_album": "-779586269",
+    "total": 54,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-779586269_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-779586269_index_1.json"
+      }
+    ]
+  },
+  {
+    "title": "Rio 2_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51779519377_b48fb8899f_n.jpg",
+    "id_album": "-1210862914",
+    "total": 17,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1637191766_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1210862914_index_0.json"
       }
     ]
   },
   {
-    "title": "Dog_L7",
-    "link_thumb": "https://live.staticflickr.com/65535/51697667845_1629e1664e_o.gif",
-    "id_album": "2052455278",
-    "total": 28,
+    "title": "Raccoons_L1",
+    "link_thumb": "https://live.staticflickr.com/65535/51703256501_29e00c4fa2_o.gif",
+    "id_album": "1998705264",
+    "total": 20,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2052455278_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1998705264_index_0.json"
       }
     ]
   },
   {
-    "title": "Couple_L2",
-    "link_thumb": "https://live.staticflickr.com/65535/51696316799_1de6586a00_o.gif",
-    "id_album": "-888889819",
+    "title": "Ragnarok_L3",
+    "link_thumb": "https://live.staticflickr.com/65535/51703631158_4576fc7e39_o.gif",
+    "id_album": "1601322211",
+    "total": 15,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1601322211_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Wolf_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51704849755_ac86460695_o.gif",
+    "id_album": "-1110849965",
+    "total": 5,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1110849965_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Joker Harley Quinn_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51780835654_74097b794d_o.gif",
+    "id_album": "-2022175633",
     "total": 24,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-888889819_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-2022175633_index_0.json"
       }
     ]
   },
   {
-    "title": "Boku No Hero Academia Anime_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51695784550_3e29f4779e_o.gif",
-    "id_album": "197312543",
-    "total": 19,
+    "title": "Birds_L6",
+    "link_thumb": "https://live.staticflickr.com/65535/51694011512_2a5cf1581f_o.gif",
+    "id_album": "1119566095",
+    "total": 1,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_197312543_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Halloween Ghost Witch_L2",
-    "link_thumb": "https://live.staticflickr.com/65535/51699281679_261c2580cb_o.gif",
-    "id_album": "1746571234",
-    "total": 49,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1746571234_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Doraemon Anime_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51697535724_1b5b06e50c_o.gif",
-    "id_album": "405661395",
-    "total": 16,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_405661395_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Moana Cartoon_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51701192939_58ccfbd28e_o.gif",
-    "id_album": "-2101867512",
-    "total": 13,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-2101867512_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1119566095_index_0.json"
       }
     ]
   }
