@@ -1,20 +1,110 @@
 [
   {
-    "title": "Peko_L7",
-    "link_thumb": "https://live.staticflickr.com/65535/51703286510_ab107b7e49_o.gif",
-    "id_album": "979611953",
-    "total": 5,
+    "title": "Rio 2_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51787542888_fdbfd3e913_o.gif",
+    "id_album": "-1210862917",
+    "total": 17,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_979611953_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1210862917_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Fox Art_L4",
+    "link_thumb": "https://live.staticflickr.com/65535/51787482753_1d827173e2_o.gif",
+    "id_album": "-646110859",
+    "total": 7,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-646110859_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Dragon Art_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51787844184_f2b2510e46_o.gif",
+    "id_album": "2059013999",
+    "total": 13,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2059013999_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Birds_L6",
+    "link_thumb": "https://live.staticflickr.com/65535/51787219181_15fa5761cc_o.gif",
+    "id_album": "1119566095",
+    "total": 1,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1119566095_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Fox Art_L2",
+    "link_thumb": "https://live.staticflickr.com/65535/51786416387_6c7b728976_o.gif",
+    "id_album": "-646110861",
+    "total": 7,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-646110861_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Girl_L6",
+    "link_thumb": "https://live.staticflickr.com/65535/51787234951_10b5e679b7_o.gif",
+    "id_album": "1702905293",
+    "total": 194,
+    "size_max_detail_page": 4,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1702905293_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1702905293_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1702905293_index_2.json"
+      },
+      {
+        "index_page": 3,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1702905293_index_3.json"
+      }
+    ]
+  },
+  {
+    "title": "Raccoons_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51787516558_69fcc6b24c_o.gif",
+    "id_album": "1998705268",
+    "total": 20,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1998705268_index_0.json"
       }
     ]
   },
   {
     "title": "Horror Art_L2",
-    "link_thumb": "https://live.staticflickr.com/65535/51780842439_64294aeb6f_o.gif",
+    "link_thumb": "https://live.staticflickr.com/65535/51787257531_bf512b12f6_o.gif",
     "id_album": "529377272",
     "total": 41,
     "size_max_detail_page": 1,
@@ -26,101 +116,15 @@
     ]
   },
   {
-    "title": "Boku No Hero Academia Anime_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51780786449_628f92b5fe_o.gif",
-    "id_album": "197312539",
-    "total": 19,
+    "title": "Dragon Art_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51787839199_0e1b9d328b_o.gif",
+    "id_album": "2059014002",
+    "total": 13,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_197312539_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Raccoons_L4",
-    "link_thumb": "https://live.staticflickr.com/65535/51702499092_ed19d068cf_o.gif",
-    "id_album": "1998705267",
-    "total": 20,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1998705267_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Sheep_L6",
-    "link_thumb": "https://live.staticflickr.com/65535/51703612911_553804ae10_o.gif",
-    "id_album": "-576277778",
-    "total": 2,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-576277778_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Death Note Anime_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51780814234_f7bf0a7866_o.gif",
-    "id_album": "-374116174",
-    "total": 8,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-374116174_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Dau Mam_L7",
-    "link_thumb": "https://live.staticflickr.com/65535/51780816514_80bd3a5fb1_o.gif",
-    "id_album": "-1324347431",
-    "total": 101,
-    "size_max_detail_page": 3,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1324347431_index_0.json"
-      },
-      {
-        "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1324347431_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_-1324347431_index_2.json"
-      }
-    ]
-  },
-  {
-    "title": "Ragnarok_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51704220425_4d861fae92_o.gif",
-    "id_album": "1601322209",
-    "total": 15,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_1601322209_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Tiger_L6",
-    "link_thumb": "https://live.staticflickr.com/65535/51704750820_43067c22fc_o.gif",
-    "id_album": "2111354122",
-    "total": 2,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2111354122_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb5_dt_alb_0/raw/main/14132021_dta_2059014002_index_0.json"
       }
     ]
   }
